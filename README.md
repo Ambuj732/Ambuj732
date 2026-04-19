@@ -1,14 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Ambuj Singh</h1>
-<h3 align="center">🚀 Software Development Engineer | Building Scalable Systems</h3>
+<h3 align="center">🚀 Software Development Engineer | MERN | Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Ambuj732">
-    <img src="https://komarev.com/ghpvc/?username=Ambuj732&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/Ambuj732?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ambuj732?label=Followers&style=social" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ambuj732&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Ambuj732?label=Followers&style=social" />
 </p>
 
 ---
