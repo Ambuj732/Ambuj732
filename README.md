@@ -16,3 +16,6 @@
 + Strong in system design, REST APIs & performance optimization
 + Experience across fintech, edtech & e-commerce
 + Reduced manual effort by 40% | Improved performance by 35%
+<p align="center"> <a href="mailto:ambujsingh0532@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Ambuj732"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/ambuj-singh-3a4b1a193/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://portfolio-three-beryl-96.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/> </a> </p>
+
+
