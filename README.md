@@ -7,7 +7,7 @@
 
 - 💼 Currently working as **Software Development Engineer @ Koffeekodes**
 - 🚀 3+ years of experience in **full-stack development**
-- ⚡ Strong in **system design, REST APIs & performance optimization**
+- ⚡ **system design, REST APIs & performance optimization**
 - 📊 Worked across **fintech, edtech & e-commerce domains**
 - 🎯 Focused on building **scalable and production-ready systems**
 
